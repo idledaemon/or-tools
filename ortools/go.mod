@@ -1,4 +1,4 @@
-module ortools
+module github.com/idledaemon/or-tools/ortools
 
 go 1.12
 
